@@ -14,6 +14,7 @@
 - Socket: Server-Client
 - HTTP Server: python -m http.server 1337
 - CGI HTTP Server: python -m http.server --cgi 1337
+- #Make UI Server Control
 - telnet/nc google.com 80 [ GET / HTTP/1.1 \n HOST google.com ]
 - Protocol HTTP https://tools.ietf.org/html/rfc2616
 
@@ -25,3 +26,8 @@
 - IP Address - IANA
 - Domain name - c:\Windows\System32\Drivers\etc\hosts, /etc/hosts
 
+# Applications
+- Architectural Design Pattern: MVC
+- SQL: MySQL(MariaDB), PostgreSQL / NoSQL
+- Framework: Rais, Laravel, Django, Spring
+- ORM
